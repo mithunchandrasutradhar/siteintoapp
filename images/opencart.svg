@@ -1,0 +1,23 @@
+<svg width="123" height="123" viewBox="0 0 123 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_208_93)">
+<path d="M4.27661 24.162C4.27661 11.5911 14.4673 1.40042 27.0382 1.40042H95.323C107.894 1.40042 118.085 11.5911 118.085 24.162V92.4468C118.085 105.018 107.894 115.208 95.323 115.208H27.0382C14.4673 115.208 4.27661 105.018 4.27661 92.4468V24.162Z" fill="#18BDF0"/>
+<g clip-path="url(#clip0_208_93)">
+<path d="M65.0215 72.8149C68.1062 72.8149 70.949 75.6577 70.949 78.7424C70.949 81.8271 68.1062 84.6699 65.0215 84.6699C61.9369 84.6699 59.094 81.8271 59.094 78.7424C59.094 75.6577 61.9369 72.8149 65.0215 72.8149ZM41.3115 72.8149C44.3962 72.8149 47.239 75.6577 47.239 78.7424C47.239 81.8271 44.3962 84.6699 41.3115 84.6699C38.2269 84.6699 35.384 81.8271 35.384 78.7424C35.384 75.6577 38.2269 72.8149 41.3115 72.8149ZM25.9 33.0746C33.7528 40.4839 42.9428 43.5947 59.6868 43.5947C76.4308 43.5947 97.03 42.7079 97.03 48.0427C97.03 50.7101 94.2133 53.2281 89.1773 57.6737C84.2859 62.1193 74.8019 70.1214 74.8019 70.1214C74.8019 67.8998 88.2881 56.3412 88.2881 52.7847C88.2881 48.0427 68.6634 48.6876 59.9191 48.5382C44.951 48.2418 32.8637 46.2644 25.9 33.0746Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_208_93" x="0.276611" y="0.400421" width="121.808" height="121.808" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_208_93"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_208_93" result="shape"/>
+</filter>
+<clipPath id="clip0_208_93">
+<rect width="71.13" height="71.13" fill="white" transform="translate(25.9 23.0239)"/>
+</clipPath>
+</defs>
+</svg>
